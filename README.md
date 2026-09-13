@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/TuneTone/MultiTune/blob/main/README%20attachments/README%20Header.png?raw=true" width="32%"/>
+
 <---
 ---
 ## Update - 31.03.2026
@@ -25,4 +26,5 @@ Thanks for the stars, I don't deserve them
 It's summer and that means more work will be done. I plan on finishing MultiTune's redesign by August and if i don't.. well, let's just say that Larry will give me a visit.
 One another hand, MultiTune has rebranded its icon. Doesn't it look awesome?
 -- Signed off by Dimu
+
 --->
